@@ -15,7 +15,7 @@
   "description": "",
   "devDependencies": {
     "@design-system-experience/ts-config": "*",
-    "@design-system-experience/eslint-config": "x",
+    "@design-system-experience/eslint-config": "*",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   }
