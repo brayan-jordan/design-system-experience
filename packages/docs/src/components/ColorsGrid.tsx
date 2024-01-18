@@ -14,7 +14,7 @@ export function ColorsGrid() {
           }}
         >
           <strong>${key}</strong>
-          <span>${color}</span>
+          <span>{color}</span>
         </div>
       </div>
     )
