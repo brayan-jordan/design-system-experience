@@ -9,12 +9,13 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "@design-system-experience/eslint-config": "*",
     "@design-system-experience/react": "*",
     "@design-system-experience/tokens": "*",
-    "@design-system-experience/eslint-config": "*",
-    "@design-system-experience/ts-config": "*"
+    "@design-system-experience/ts-config": "*",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.9",
