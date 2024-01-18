@@ -13,7 +13,8 @@
     "react-dom": "^18.2.0",
     "@design-system-experience/react": "*",
     "@design-system-experience/tokens": "*",
-    "@design-system-experience/eslint-config": "*"
+    "@design-system-experience/eslint-config": "*",
+    "@design-system-experience/ts-config": "*"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.9",
