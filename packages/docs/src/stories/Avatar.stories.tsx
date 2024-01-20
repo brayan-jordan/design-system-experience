@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/brayan-jordan.png',
     alt: 'Brayan Jordan',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}

@@ -13,6 +13,7 @@
     "@design-system-experience/react": "*",
     "@design-system-experience/tokens": "*",
     "@design-system-experience/ts-config": "*",
+    "@storybook/addon-a11y": "^7.6.10",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
