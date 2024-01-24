@@ -79,7 +79,7 @@ export const Button = styled('button', {
       },
 
       md: {
-        padding: '$0 $4',
+        padding: '0 $4',
         height: 46,
       },
     },

@@ -1,5 +1,11 @@
 # @design-system-experience/react
 
+## 2.1.3
+
+### Patch Changes
+
+- fix: Corrigindo padding do componente Button na variant "md"
+
 ## 2.1.2
 
 ### Patch Changes
