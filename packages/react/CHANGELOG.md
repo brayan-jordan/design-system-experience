@@ -1,5 +1,11 @@
 # @design-system-experience/react
 
+## 2.1.1
+
+### Patch Changes
+
+- Adicionando "fontFamily: $default" ao componente "Button" (Roboto)
+
 ## 2.1.0
 
 ### Minor Changes

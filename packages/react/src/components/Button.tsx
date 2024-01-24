@@ -5,6 +5,7 @@ export const Button = styled('button', {
   all: 'unset',
   borderRadius: '$sm',
   fontSize: '$sm',
+  fontFamily: '$default',
   fontWeight: '$medium',
   textAlign: 'center',
   minWidth: 120,
