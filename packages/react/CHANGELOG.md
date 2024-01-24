@@ -1,5 +1,11 @@
 # @design-system-experience/react
 
+## 2.1.2
+
+### Patch Changes
+
+- Corrigindo padding do componente Button
+
 ## 2.1.1
 
 ### Patch Changes
